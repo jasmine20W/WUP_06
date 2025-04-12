@@ -56,7 +56,6 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 
 The opinions in this branch seem to align with the opinions in the data give in our master branch- the only difference being the sample size in this branch is only about 1/3 of the sample size in the master branch. 
 
-## Now with LESS data (more variables give less data due to NA's) create the approate graphic displays to answer the question.
 
 
 
